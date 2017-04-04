@@ -2,6 +2,8 @@
 
 Event-driven Pong in console created using pdcurses.
 
+Download "Event_Driven_Pong_Release.zip" file for the compiled version.
+
 Current version supports only Windows due to usage of "Windows.h" for asynckeystate() function. 
 
 Default controls:
